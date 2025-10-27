@@ -1,3 +1,5 @@
-Hi, I'm Sheila!
-Hi, I'm Hilmi!
-Hi, I'm Tika!
+Lecture 5 - Git Collab
+
+- Hi, I'm Sheila from Team 1!
+- Hi, I'm Hilmi from Team 2!
+- Hi, I'm Tika from Team 1!
